@@ -1,0 +1,41 @@
+.pass-item {
+  border: solid 1px #b6c3ca;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  margin: 10px;
+}
+.bg-first {
+  background-color: #0ea5e9;
+  height: 35px;
+  border-radius: 55px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 24px;
+  padding: 5px;
+}
+
+.pi-para {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.pi-para2 {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+
+.stars {
+  width: 125px;
+}
+.del-button {
+  border: none;
+  background-color: transparent;
+}
+.delete {
+  height: 30px;
+  width: 30px;
+}
